@@ -1,0 +1,23 @@
+Create a Git repository
+Tutorial: Learn Bitbucket with Git
+Create a Git repository
+Copy your Git repository and add files
+Pull changes from your Git repository on Bitbucket Cloud
+Use a Git branch to merge a file
+Related content
+Create a Mercurial repository
+Create a Git or Mercurial repository
+Create a repository
+Create and grant access to team repositories
+Split a repository in two
+Still need help?
+The Atlassian Community is here for you.
+
+Ask the community
+
+As our new Bitbucket space station administrator, you need to be organized. When you make files for your space station, you’ll want to keep them in one place and shareable with teammates, no matter where they are in the universe. With Bitbucket, that means adding everything to a repository. Let’s create one!
+
+Some fun facts about repositories
+Step 1. Create the repository
+Initially, the repository you create in Bitbucket is going to be empty without any code in it. That's okay because you will start adding some files to it soon. This Bitbucket repository will be the central repository for your files, which means that others can access that repository if you give them permission. After creating a repository, you'll copy a version to your local system—that way you can update it from one repo, then transfer those changes to the other.
+modifications on feature
